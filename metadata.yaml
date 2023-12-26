@@ -1,0 +1,52 @@
+_repo: Egalite-des-hommes-et-des-femmes-b-A-la-Reyne_72251
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Horace
+    aliases:
+    - Horatius Flaccus, Quintus
+    - Flaccus, Quintus Horatius
+    birthdate: -65
+    deathdate: -8
+    gutenberg_agent_id: '1790'
+    url: http://www.gutenberg.org/2009/agents/1790
+    wikipedia: https://en.wikipedia.org/wiki/Horace
+creator:
+  author:
+    agent_name: Gournay, Marie Le Jars de
+    aliases:
+    - Gournay, Marie de Jars de
+    - Le Jars de Gournay, Marie
+    - Jars de Gournay, Marie Le
+    - De Gournay, Marie Le Jars
+    birthdate: 1565
+    deathdate: 1645
+    gutenberg_agent_id: '56614'
+    url: http://www.gutenberg.org/2009/agents/56614
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Marie_de_Gournay
+    - https://fr.wikipedia.org/wiki/Marie_de_Gournay
+description: ''
+gutenberg_issued: '2023-11-28'
+identifiers:
+  gutenberg: '72251'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k3142288/f15.double
+pgterms:marc905: 20230914092711degournay
+pgterms:marc906: '1622'
+pgterms:marc907: FR
+production_note: Claudine Corbasson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $anone :$bnone, $c1622.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women''s rights -- Early works to 1800'
+- !lcsh 'Equality -- Early works to 1800'
+- !lcc 'HQ'
+- !lcc 'PQ'
+- GITenberg
+title: 'Egalité des hommes et des femmes : $b A la Reyne'
+url: http://www.gutenberg.org/ebooks/72251
