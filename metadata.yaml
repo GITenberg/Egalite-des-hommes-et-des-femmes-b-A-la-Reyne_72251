@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '1790'
     url: http://www.gutenberg.org/2009/agents/1790
     wikipedia: https://en.wikipedia.org/wiki/Horace
+covers:
+- cover_type: archival
+  image_path: 72251-h/images/cover.jpg
 creator:
   author:
     agent_name: Gournay, Marie Le Jars de
@@ -27,6 +30,8 @@ creator:
     - https://en.wikipedia.org/wiki/Marie_de_Gournay
     - https://fr.wikipedia.org/wiki/Marie_de_Gournay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72251#Egalite-des-hommes-et-des-femmes-b-A-la-Reyne
 gutenberg_issued: '2023-11-28'
 identifiers:
   gutenberg: '72251'
